@@ -5,21 +5,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="29ce00ae-5e8b-404b-9868-6e25137ac51a" name="Changes" comment="Java-basic-programs">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program26.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program27.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program28.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program29.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program30.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program31.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program32.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program33.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program34.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program35.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program36.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program37.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program38.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program39.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program40.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program41.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program42.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program43.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program44.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program45.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program46.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program47.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program48.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -31,6 +44,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -64,8 +78,36 @@
     "Application.Program18.executor": "Debug",
     "Application.Program19.executor": "Run",
     "Application.Program2.executor": "Run",
+    "Application.Program20.executor": "Run",
+    "Application.Program21.executor": "Run",
+    "Application.Program22.executor": "Run",
+    "Application.Program23.executor": "Run",
+    "Application.Program24.executor": "Debug",
+    "Application.Program25.executor": "Debug",
+    "Application.Program26.executor": "Run",
+    "Application.Program27.executor": "Run",
+    "Application.Program28.executor": "Run",
+    "Application.Program29.executor": "Run",
     "Application.Program3.executor": "Debug",
+    "Application.Program30.executor": "Run",
+    "Application.Program31.executor": "Run",
+    "Application.Program32.executor": "Run",
+    "Application.Program33.executor": "Debug",
+    "Application.Program34.executor": "Debug",
+    "Application.Program35.executor": "Run",
+    "Application.Program36.executor": "Debug",
+    "Application.Program37.executor": "Run",
+    "Application.Program38.executor": "Run",
+    "Application.Program39.executor": "Run",
     "Application.Program4.executor": "Run",
+    "Application.Program40.executor": "Run",
+    "Application.Program42.executor": "Run",
+    "Application.Program43.executor": "Run",
+    "Application.Program44.executor": "Run",
+    "Application.Program45.executor": "Run",
+    "Application.Program46.executor": "Run",
+    "Application.Program47.executor": "Run",
+    "Application.Program48.executor": "Run",
     "Application.Program5.executor": "Run",
     "Application.Program6.executor": "Debug",
     "Application.Program7.executor": "Run",
@@ -83,9 +125,9 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Program20">
-    <configuration name="Program16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.pk.Program16" />
+  <component name="RunManager" selected="Application.Program48">
+    <configuration name="Program44" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.pk.Program44" />
       <module name="Programs" />
       <extension name="coverage">
         <pattern>
@@ -97,8 +139,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Program17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.pk.Program17" />
+    <configuration name="Program45" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.pk.Program45" />
       <module name="Programs" />
       <extension name="coverage">
         <pattern>
@@ -110,8 +152,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Program18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.pk.Program18" />
+    <configuration name="Program46" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.pk.Program46" />
       <module name="Programs" />
       <extension name="coverage">
         <pattern>
@@ -123,8 +165,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Program19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.pk.Program19" />
+    <configuration name="Program47" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.pk.Program47" />
       <module name="Programs" />
       <extension name="coverage">
         <pattern>
@@ -136,8 +178,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Program20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.pk.Program20" />
+    <configuration name="Program48" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.pk.Program48" />
       <module name="Programs" />
       <extension name="coverage">
         <pattern>
@@ -151,11 +193,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Program20" />
-        <item itemvalue="Application.Program19" />
-        <item itemvalue="Application.Program18" />
-        <item itemvalue="Application.Program17" />
-        <item itemvalue="Application.Program16" />
+        <item itemvalue="Application.Program48" />
+        <item itemvalue="Application.Program47" />
+        <item itemvalue="Application.Program46" />
+        <item itemvalue="Application.Program45" />
+        <item itemvalue="Application.Program44" />
       </list>
     </recent_temporary>
   </component>
@@ -183,7 +225,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732932765832</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Java-basic-programs">
+      <option name="closed" value="true" />
+      <created>1732945714896</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1732945714896</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -207,6 +257,81 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/pk/Program18.java</url>
           <line>7</line>
           <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/pk/Program22.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/pk/Program22.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/pk/Program24.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/pk/Program24.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/pk/Program25.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/pk/Program33.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/pk/Program33.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/pk/Program33.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/pk/Program33.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/pk/Program33.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/pk/Program34.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/pk/Program34.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/pk/Program36.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/pk/Program36.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/pk/Program36.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="34" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
