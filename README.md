@@ -68,5 +68,42 @@
 65. increment operator
 66. Recursion, base case of the recursive function is not defined.
 67. Recursive function
-68. 
+68. Recursion
+69. Array
+70. Array
+71. compile time error, The class K is an inner class of Program71, which means it cannot be instantiated directly in the main method unless an instance of the outer class Program71 is created first.
+    This is because in Java, non-static inner classes require an instance of their outer class to be instantiated.
+72. Inner class
+73. equals() method
+74. getClass() method
+75. inheritance
+76. The superclass method display() is not called because you're calling the display() method of the subclass J. Method overriding happens when a subclass provides a new implementation for a method that is already defined in the superclass. When you call the method, Java uses the subclass's version of the method (because you’re working with an instance of the subclass).
+If you want to call the superclass method explicitly, you can do so using the super keyword inside the subclass.
+77. Inheritance
+78. NullPointerException
+79. getChars() method
+80. indexOf() method
+81. for loop
+82. StringBuffer
+83. isInfinite()
+84. toBinaryString()
+85. arraycopy()
+86. System.exit() is a command in Java that terminates the running Java program and exits the JVM (Java Virtual Machine).
+87. compareTo() method compares two Double objects based on their numeric values.
+88. CharArrayReader to read from a char array and compare characters from two different readers.
+89. ArithmeticException
+90. try-catch
+91. compile-time exception
+92. try-catch
+93. get class name
+94. This happens because now the run() method in class T is invoked when the thread starts.
+95. get current date and time
+96. BitSet class
+97. ArithmeticException
+98. The catch block only catches ArithmeticException, but since a NullPointerException is thrown, the catch block does not get executed.
+    This leads to an uncaught exception, causing the program to terminate and print the exception's stack trace.
+99. try-finally block
+100. Custom exception
+
+
 

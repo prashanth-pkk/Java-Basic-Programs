@@ -5,25 +5,39 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="29ce00ae-5e8b-404b-9868-6e25137ac51a" name="Changes" comment="Java-basic-programs">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program49.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program50.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program51.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program52.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program53.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program54.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program55.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program56.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program57.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program58.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program59.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program60.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program61.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program62.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program63.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program64.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program65.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program66.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program67.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program100.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program68.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program69.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program70.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program71.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program72.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program73.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program74.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program75.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program76.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program77.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program78.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program79.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program80.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program81.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program82.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program83.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program84.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program85.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program86.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program87.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program88.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program89.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program90.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program91.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program92.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program93.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program94.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program95.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program96.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program97.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program98.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program99.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -59,6 +73,7 @@
   "keyToString": {
     "Application.Main.executor": "Run",
     "Application.Program10.executor": "Run",
+    "Application.Program100.executor": "Run",
     "Application.Program11.executor": "Run",
     "Application.Program12.executor": "Run",
     "Application.Program13.executor": "Run",
@@ -116,9 +131,39 @@
     "Application.Program65.executor": "Debug",
     "Application.Program66.executor": "Run",
     "Application.Program67.executor": "Debug",
+    "Application.Program68.executor": "Debug",
+    "Application.Program69.executor": "Run",
     "Application.Program7.executor": "Run",
+    "Application.Program70.executor": "Run",
+    "Application.Program72.executor": "Run",
+    "Application.Program73.executor": "Debug",
+    "Application.Program75.executor": "Run",
+    "Application.Program76.executor": "Run",
+    "Application.Program77.executor": "Run",
+    "Application.Program78.executor": "Run",
+    "Application.Program79.executor": "Run",
     "Application.Program8.executor": "Run",
+    "Application.Program80.executor": "Run",
+    "Application.Program81.executor": "Debug",
+    "Application.Program82.executor": "Run",
+    "Application.Program83.executor": "Run",
+    "Application.Program84.executor": "Run",
+    "Application.Program85.executor": "Run",
+    "Application.Program86.executor": "Run",
+    "Application.Program87.executor": "Run",
+    "Application.Program88.executor": "Run",
+    "Application.Program89.executor": "Run",
     "Application.Program9.executor": "Run",
+    "Application.Program90.executor": "Debug",
+    "Application.Program91.executor": "Run",
+    "Application.Program92.executor": "Run",
+    "Application.Program93.executor": "Run",
+    "Application.Program94.executor": "Run",
+    "Application.Program95.executor": "Run",
+    "Application.Program96.executor": "Run",
+    "Application.Program97.executor": "Run",
+    "Application.Program98.executor": "Run",
+    "Application.Program99.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -131,9 +176,9 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Program67">
-    <configuration name="Program63" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.pk.Program63" />
+  <component name="RunManager" selected="Application.Program100">
+    <configuration name="Program100" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.pk.Program100" />
       <module name="Programs" />
       <extension name="coverage">
         <pattern>
@@ -145,8 +190,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Program64" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.pk.Program64" />
+    <configuration name="Program95" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.pk.Program95" />
       <module name="Programs" />
       <extension name="coverage">
         <pattern>
@@ -158,8 +203,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Program65" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.pk.Program65" />
+    <configuration name="Program97" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.pk.Program97" />
       <module name="Programs" />
       <extension name="coverage">
         <pattern>
@@ -171,8 +216,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Program66" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.pk.Program66" />
+    <configuration name="Program98" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.pk.Program98" />
       <module name="Programs" />
       <extension name="coverage">
         <pattern>
@@ -184,8 +229,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Program67" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.pk.Program67" />
+    <configuration name="Program99" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.pk.Program99" />
       <module name="Programs" />
       <extension name="coverage">
         <pattern>
@@ -199,11 +244,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Program67" />
-        <item itemvalue="Application.Program66" />
-        <item itemvalue="Application.Program64" />
-        <item itemvalue="Application.Program65" />
-        <item itemvalue="Application.Program63" />
+        <item itemvalue="Application.Program100" />
+        <item itemvalue="Application.Program99" />
+        <item itemvalue="Application.Program98" />
+        <item itemvalue="Application.Program97" />
+        <item itemvalue="Application.Program95" />
       </list>
     </recent_temporary>
   </component>
@@ -247,7 +292,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733016007017</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Java-basic-programs">
+      <option name="closed" value="true" />
+      <created>1733105608523</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1733105608523</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -426,6 +479,31 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/pk/Program67.java</url>
           <line>13</line>
           <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/pk/Program68.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/pk/Program68.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/pk/Program68.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/pk/Program73.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/pk/Program90.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="68" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
