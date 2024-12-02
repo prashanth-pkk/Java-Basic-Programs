@@ -48,5 +48,25 @@
 46. Ternary Conditional Operator(?)
 47. if-else condition
 48. The ^ operator is the bitwise XOR (exclusive OR) operator for booleans. The result of the XOR operation is true if the operands are different, and false if they are the same.
-49. 
+49. If statement
+50. for loop
+51. if-else statement
+52. Compile time error
+53. if-else statement
+54. if-else statement
+55. Compile time error, the variables with same name can't be created in a class.
+56. Compile time error, height variable is not declared in the Area class.
+57. Compile time error, If parent class constructor throws checked exception, then child class must declare same exception otherwise fails compile time error.
+58. Compile time error
+59. Method overloading
+60. Local variable
+61. Localvariable
+62. Access to x: The x variable is public, so it's directly accessible from the main method in Program62. The value x = 3 is printed.
+    Access to y: The y variable is private, but you're accessing it correctly from the print() method within the same class (Demo1), so it prints y = 2.
+63. Since both p and p1 share the same static variables.
+64. Since x is a static variable, any modification to x affects all instances of the class. After both increment() calls, the value of x is 2, and this value is printed for both d.x and d1.x.
+65. increment operator
+66. Recursion, base case of the recursive function is not defined.
+67. Recursive function
+68. 
 
