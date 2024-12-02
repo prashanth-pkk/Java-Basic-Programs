@@ -5,40 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="29ce00ae-5e8b-404b-9868-6e25137ac51a" name="Changes" comment="Java-basic-programs">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program100.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program68.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program69.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program70.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program71.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program72.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program73.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program74.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program75.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program76.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program77.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program78.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program79.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program80.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program81.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program82.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program83.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program84.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program85.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program86.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program87.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program88.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program89.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program90.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program91.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program92.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program93.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program94.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program95.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program96.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program97.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program98.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pk/Program99.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -176,7 +142,7 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Program100">
+  <component name="RunManager" selected="Application.Program2">
     <configuration name="Program100" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.pk.Program100" />
       <module name="Programs" />
@@ -190,8 +156,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Program95" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.pk.Program95" />
+    <configuration name="Program2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.pk.Program2" />
       <module name="Programs" />
       <extension name="coverage">
         <pattern>
@@ -244,11 +210,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Program2" />
         <item itemvalue="Application.Program100" />
         <item itemvalue="Application.Program99" />
         <item itemvalue="Application.Program98" />
         <item itemvalue="Application.Program97" />
-        <item itemvalue="Application.Program95" />
       </list>
     </recent_temporary>
   </component>
@@ -300,7 +266,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733105608523</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Java-basic-programs">
+      <option name="closed" value="true" />
+      <created>1733143375018</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1733143375018</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
