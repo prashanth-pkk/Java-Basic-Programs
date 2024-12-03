@@ -107,6 +107,17 @@ If you want to call the superclass method explicitly, you can do so using the su
     This leads to an uncaught exception, causing the program to terminate and print the exception's stack trace.
 99. try-finally block
 100. Custom exception
+101. interface
+102. run time exception, parent object can't be assigned to child class(ClassCastException)
+103. inheritance
+104. The key here is that Java automatically resolves the method based on the type of the argument passed, and the method that is selected must match the type of the argument or be compatible with it.
+105. Static methods in Java are not polymorphic. This means that the method that gets executed is determined by the reference type, not the object type (which is different from instance methods).
+     In this case, the reference variable one is of type One, even though it's pointing to an object of type Two.
+106. Method overloading
+107. The static method staticMethod() is part of the class Program107. It can be called directly on the class or through an object reference (even a null reference).
+     No NullPointerException occurs because the static method is resolved at the class level, not at the object level.
+108. for loop
+109. break statement.
 
 
 
