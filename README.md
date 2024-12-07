@@ -2,8 +2,10 @@ Having 100+ programs to practice core Java concepts can be incredibly beneficial
 
 By solving these problems, you'll not only learn the syntax but also gain the ability to think critically and solve problems efficiently—skills that are essential for every programmer.
 
-Strengthening Core Java Skills
+Strengthening Core Java Skills:
+
 Core Java Concepts: This project will help you learn and solidify the core concepts of Java such as data types, variables, loops, conditionals, methods, classes, and objects. Working on a variety of programs will ensure that you understand these concepts in depth.
+
 Problem Solving: The project will challenge you with a variety of problems. Solving different types of problems in Java will help you develop strong problem-solving skills, which is one of the most important aspects of learning any programming language.
 
 1. compile time error
